@@ -1,0 +1,5 @@
+setup.py
+light_rag_testing.egg-info/PKG-INFO
+light_rag_testing.egg-info/SOURCES.txt
+light_rag_testing.egg-info/dependency_links.txt
+light_rag_testing.egg-info/top_level.txt
